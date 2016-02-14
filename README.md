@@ -15,5 +15,5 @@ run_analysis.R contains the implemented requirements from
 https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 described in the 5 steps.
 
-The output of the 5th step is in tidy_data.txt, which was not uploaded to the current repository because nothing was mentioned about it 
+The output of the 5th step is in `tidy_data.txt`, which was not uploaded to the current repository because nothing was mentioned about it 
 in the course requirements.
