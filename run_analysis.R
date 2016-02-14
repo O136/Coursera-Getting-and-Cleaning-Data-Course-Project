@@ -40,6 +40,7 @@ detailed_data <- detailed_data[,-1]
 
 col_names <- names(detailed_data)
 
+#clean the column names
 col_names <- gsub("BodyBody","Body",col_names, ignore.case = T)
 col_names <- gsub("^(f)","freq",col_names, ignore.case = T)
 col_names <- gsub("^(t)","time",col_names, ignore.case = T)
